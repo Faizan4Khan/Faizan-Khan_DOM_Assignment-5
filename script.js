@@ -45,5 +45,5 @@ box.addEventListener("mouseenter", ()=>{
 let doubleClickBtn = document.getElementById("doubleClickBtn");
 
 doubleClickBtn.addEventListener("dblclick", ()=>{
-    alert("Double Click Detected")
+    alert("Double Click Detected");
 })
